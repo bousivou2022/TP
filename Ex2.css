@@ -1,0 +1,17 @@
+.row-wrapper{
+    display:flex;
+    flex-direction:row;
+}
+.column-wrapper .box {
+            width: 400px;
+            height: 50px;
+            border: 5px solid #87b5ff; 
+            text-align:center;
+            background-color:  #1c57b5; }
+
+
+
+
+
+
+

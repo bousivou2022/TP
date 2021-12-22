@@ -1,0 +1,21 @@
+
+.wrapper {
+        position:relative;
+        height: 400px;
+        width: 400px;
+        position:relative;
+      align-items: center;
+        background-color: #cfcdd3;
+    }
+   .flying-box {
+        position: absolute;
+        padding: 15px 20px;
+       text-align: center;
+       top: 40%;
+       left: 35%;
+       color: white;
+        background-color: rgba(245, 19, 19, 0.829);
+    }
+   
+    
+   
